@@ -104,7 +104,7 @@ CSS 애니메이션과 트랜지션을 사용해 더 자연스러운 사용자 �
 
 📥 1. 코드 다운로드
 
-$ git clone https://github.com/maybeags/basketball_game_jquery.git
+$ git clone https://github.com/alswpddl/basketball_game_jquery.git
 $ cd basketball_game_jquery
 
 🚀 2. 로컬 서버 실행
@@ -121,6 +121,6 @@ index.html 파일을 브라우저에서 열어 게임을 시작하세요
 
 이 프로젝트는 JavaScript와 jQuery를 사용하여 단계적으로 기능을 개선해 나가는 과정을 통해 더 효율적이고 유지보수하기 쉬운 코드를 작성하는 방법을 배울 수 있었습니다. 앞으로도 최신 기술을 적용하여 더 발전된 프로젝트로 확장해 나가겠습니다.
 
-👤 Author: maybeags
+👤 Author: alswpddl
 
 🗓️ Last Updated: 2025-02-20
